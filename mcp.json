@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "joai-resend": {
+      "url": "https://cortex.joai.ai/mcp/apps/resend"
+    }
+  }
+}
